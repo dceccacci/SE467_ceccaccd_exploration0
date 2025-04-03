@@ -11,6 +11,7 @@ export default function Home() {
         priority
       />
       <h1 className="text-4xl font-bold mt-4">Hello from ceccaccd</h1>
+      <p>This was deployed automatically!</p>
     </div>
   );
 }

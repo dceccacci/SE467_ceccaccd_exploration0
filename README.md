@@ -55,4 +55,3 @@ aws s3 sync out/ s3://YOUR-BUCKET-NAME
 
 Your site will be available at the S3 bucket's website endpoint: `http://YOUR-BUCKET-NAME.s3-website-REGION.amazonaws.com`
 
-
